@@ -10,7 +10,7 @@
     "url": "https://github.com/jedisct1/libsodium.js.git"
   },
   "dependencies": {
-    "libsodium-sumo": "0.7.3"
+    "libsodium-sumo": "https://github.com/jedisct1/libsodium.js"
   },
   "keywords": [
     "crypto",

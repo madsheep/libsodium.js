@@ -12,7 +12,7 @@
     "url": "https://github.com/jedisct1/libsodium.js.git"
   },
   "dependencies": {
-    "libsodium": "0.7.3"
+    "libsodium": "https://github.com/jedisct1/libsodium.js"
   },
   "devDependencies": {
     "uglify-es": "^3"
